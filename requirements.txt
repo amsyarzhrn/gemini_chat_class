@@ -1,5 +1,6 @@
-protobuf==5.26.0
-streamlit==1.32.2
+protobuf
+streamlit
 google-generativeai
-test123
+
+
 
